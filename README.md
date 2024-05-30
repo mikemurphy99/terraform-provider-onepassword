@@ -1,5 +1,6 @@
 <!-- Image sourced from https://blog.1password.com/introducing-secrets-automation/ -->
 <!-- Mikey was here! -->
+<!-- Mikey was here! -->
 <img alt="" role="img" src="https://blog.1password.com/posts/2021/secrets-automation-launch/header.svg"/>
 
 <div align="center">
