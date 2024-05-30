@@ -2,6 +2,7 @@
 <!-- Mikey was here! -->
 <!-- Mikey was here! -->
 <!-- Take three! -->
+<!-- Take four! -->
 <img alt="" role="img" src="https://blog.1password.com/posts/2021/secrets-automation-launch/header.svg"/>
 
 <div align="center">
